@@ -2,4 +2,9 @@ Test project on Jekyll
 Додоємо для першого коміту
 # test line
 # add second line
+<<<<<<< HEAD
 # внесемо додаткові зміни
+=======
+# add new local user
+# add new branch tesitng
+>>>>>>> testing
